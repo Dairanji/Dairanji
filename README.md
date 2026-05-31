@@ -15,6 +15,7 @@ Data Visualization & Reporting
 Featured Projects
 
 📊 Weekly Stock Comparison Tracker
+- https://github.com/Dairanji/Weekly-Stock-Comparison-Tracker
 
 Connect With Me
 - LinkedIn: linkedin.com/in/shayantanmitra96/
