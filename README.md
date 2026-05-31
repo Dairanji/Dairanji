@@ -17,8 +17,8 @@ Featured Projects
 📊 Weekly Stock Comparison Tracker
 
 Connect With Me
-LinkedIn: linkedin.com/in/shayantanmitra96/
-Email: shayantanmitra99@gmail.com
+- LinkedIn: linkedin.com/in/shayantanmitra96/
+- Email: shayantanmitra99@gmail.com
 
 "Turning data into insights and insights into decisions."
 
