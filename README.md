@@ -9,6 +9,8 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 - Experienced with Excel, SQL, Power BI, SAP SD, Python, and Data Cleaning
 - Interested in Business Intelligence, Financial Analytics, and Data-Driven Decision Making
 
+"Turning data into insights and insights into decisions."
+
 ## Download CV
 - <a href="https://github.com/Dairanji/Dairanji/blob/main/Shayantan_Mitra_CV_DataAnalyst.pdf">Curriculum Vitae</a>
 
@@ -32,8 +34,6 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 Connect With Me
 - LinkedIn: linkedin.com/in/shayantanmitra96/
 - Email: shayantanmitra99@gmail.com
-
-"Turning data into insights and insights into decisions."
 
 <!---
 Dairanji/Dairanji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
