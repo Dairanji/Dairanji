@@ -15,7 +15,7 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 ## Table of Contents
 - [Excel](#excel)
 - [Power BI](#powerbi)
-- [SQL](#sql]
+- [SQL](#sql)
 
 ## Excel
 | Project Link | Completion Date | Functions & Features | Project Description |
