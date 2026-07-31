@@ -18,7 +18,6 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 - [Data Analysis](#data-analysis)
 - [Excel](#excel)
 - [Power BI](#power-bi)
-- [SQL](#sql)
 
 ## Data Analysis
 | Project Link | Completion Date | Tools | Project Description |
