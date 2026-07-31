@@ -15,9 +15,15 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 - <a href="https://github.com/Dairanji/Dairanji/blob/main/Shayantan_Mitra_CV_DataAnalyst.pdf">Curriculum Vitae</a>
 
 ## Table of Contents
+- [Data Analysis](#data-analysis)
 - [Excel](#excel)
 - [Power BI](#power-bi)
 - [SQL](#sql)
+
+## Data Analysis
+| Project Link | Completion Date | Tools | Project Description |
+|---|---|---|---|
+| [JobMarket-Insights](https://github.com/Dairanji/Job-Market-Analysis) | July 2026 | Python, SerpAPI, MySQL, SQL (aggregation, GROUP BY), Power BI | Built an end-to-end pipeline scraping 11,000+ IT job postings across 42 Indian cities via SerpAPI, cleaning and loading the data into MySQL, then querying it in SQL to surface skill demand, top hiring companies, and employment trends, visualized in a Power BI dashboard. |
 
 ## Excel
 | Project Link | Completion Date | Functions & Features | Project Description |
