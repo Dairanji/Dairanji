@@ -1,3 +1,6 @@
+# Shayantan Mitra - Data Analyst Portfolio
+
+
 Hi, I'm Shayantan Mitra 👋
 
 Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experience in business operations, SAP-based reporting, and data management at RCF Ltd. Passionate about transforming raw data into actionable insights using Excel, SQL, Power BI, and Python.
