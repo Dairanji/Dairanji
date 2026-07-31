@@ -22,8 +22,12 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 |---|---|---|---|
 | 📊[Weekly Stock Comparison Tracker](https://github.com/Dairanji/Weekly-Stock-Comparison-Tracker) | March 2026 | SUM, SUMIFS, GETPIVOTDATA, PIVOT TABLE, SLICER, CHARTS, DASHBOARD | Developed and maintained an aging stock tracker for fertilizer dealers across West Bengal. The workbook involved structuring dealer-wise data across district sheets, applying multi-criteria lookup formulas for aggregation, building Pivot Tables and Slicers for filtering, and creating a dashboard with an automated email outreach feature. |
 
-📊 Weekly Stock Comparison Tracker
-- https://github.com/Dairanji/Weekly-Stock-Comparison-Tracker
+
+## Power BI
+| Project Link | Project Description | Dashboard |
+|---|---|---|
+| [24-25 VS 25-26 Financial-Year-Sales-Analysis](https://github.com/Dairanji/2024-25-vs-2025-26-Financial-Year-Sales-Analysis) | April 2026 | Developed a Power BI dashboard comparing RCF's sales performance across two financial years. The report combined data into a single fact table, applied DAX measures to isolate and compare period-specific volumes, and presented findings across five pages covering trends, districts, product mix, and plant-level analysis. |
+
 
 Connect With Me
 - LinkedIn: linkedin.com/in/shayantanmitra96/
