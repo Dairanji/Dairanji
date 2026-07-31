@@ -20,8 +20,7 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 ## Excel
 | Project Link | Completion Date | Functions & Features | Project Description |
 |---|---|---|---|
-| [📊 Weekly Stock Comparison Tracker](https://github.com/Dairanji/Weekly-Stock-Comparison-Tracker
-) | March 2026 | SUM, SUMIFS, GETPIVOTDATA, PIVOT TABLE, SLICER, CHARTS, DASHBOARD | Developed and maintained an aging stock tracker for fertilizer dealers across West Bengal. The workbook involved structuring dealer-wise data across district sheets, applying multi-criteria lookup formulas for aggregation, building Pivot Tables and Slicers for filtering, and creating a dashboard with an automated email outreach feature. |
+| [📊 Weekly Stock Comparison Tracker](https://github.com/Dairanji/Weekly-Stock-Comparison-Tracker) | March 2026 | SUM, SUMIFS, GETPIVOTDATA, PIVOT TABLE, SLICER, CHARTS, DASHBOARD | Developed and maintained an aging stock tracker for fertilizer dealers across West Bengal. The workbook involved structuring dealer-wise data across district sheets, applying multi-criteria lookup formulas for aggregation, building Pivot Tables and Slicers for filtering, and creating a dashboard with an automated email outreach feature. |
 
 📊 Weekly Stock Comparison Tracker
 - https://github.com/Dairanji/Weekly-Stock-Comparison-Tracker
