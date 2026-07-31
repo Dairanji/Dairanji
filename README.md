@@ -12,13 +12,16 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 ## Download CV
 - <a href="https://github.com/Dairanji/Dairanji/blob/main/Shayantan_Mitra_CV_DataAnalyst.pdf">Curriculum Vitae</a>
 
-Tech Stack
-Excel (Pivot Tables, XLOOKUP, Dashboards)
-SQL
-Power BI
-SAP SD
-Data Visualization & Reporting
-Featured Projects
+## Table of Contents
+- [Excel] (#excel)
+- [Power BI] (#powerbi)
+- [Sql] (#sql]
+
+## Excel
+| Project Link | Completion Date | Functions & Features | Project Description |
+|---|---|---|---|
+| [📊 Weekly Stock Comparison Tracker](https://github.com/Dairanji/Weekly-Stock-Comparison-Tracker
+) | March 2026 | SUM, SUMIFS, GETPIVOTDATA, PIVOT TABLE, SLICER, CHARTS, DASHBOARD | Developed and maintained an aging stock tracker for fertilizer dealers across West Bengal. The workbook involved structuring dealer-wise data across district sheets, applying multi-criteria lookup formulas for aggregation, building Pivot Tables and Slicers for filtering, and creating a dashboard with an automated email outreach feature. |
 
 📊 Weekly Stock Comparison Tracker
 - https://github.com/Dairanji/Weekly-Stock-Comparison-Tracker
