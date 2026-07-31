@@ -31,7 +31,7 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 | [24-25 VS 25-26 Financial-Year-Sales-Analysis](https://github.com/Dairanji/2024-25-vs-2025-26-Financial-Year-Sales-Analysis) | April 2026 | Developed a Power BI dashboard comparing RCF's sales performance across two financial years. The report combined data into a single fact table, applied DAX measures to isolate and compare period-specific volumes, and presented findings across five pages covering trends, districts, product mix, and plant-level analysis. | [Download](https://github.com/Dairanji/2024-25-vs-2025-26-Financial-Year-Sales-Analysis/blob/main/RCF_SALES_COMPARISON_FY_2024-25_VS_2025-26.pdf) |
 
 
-Connect With Me
+## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/shayantanmitra96/)
 - [Email](shayantanmitra99@gmail.com)
 
