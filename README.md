@@ -33,7 +33,7 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/shayantanmitra96/)
-- [Email](shayantanmitra99@gmail.com)
+- Email : shayantanmitra99@gmail.com
 
 <!---
 Dairanji/Dairanji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
