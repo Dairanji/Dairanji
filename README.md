@@ -3,11 +3,14 @@
 ## About
 Hi, I'm Shayantan Mitra 👋
 
-Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experience in business operations, SAP-based reporting, and data management at RCF Ltd. Passionate about transforming raw data into actionable insights using Excel, SQL, Power BI, and Python.
+Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experience in business operations, SAP-based reporting, and data management at RCF Ltd. Passionate about transforming raw data into actionable insights using Excel, SQL, Power BI, and Python. Currently on track to completing my Professional Certification in Data Analytics with GenAI by IITM Pravartak from Coding Ninjas.
 
 - Skilled in Data Analysis, Data Visualization, Business Reporting, and Dashboard Development
 - Experienced with Excel, SQL, Power BI, SAP SD, Python, and Data Cleaning
 - Interested in Business Intelligence, Financial Analytics, and Data-Driven Decision Making
+
+## Download CV
+- <a href="https://github.com/Dairanji/Dairanji/blob/main/Shayantan_Mitra_CV_DataAnalyst.pdf">Dataset</a>
 
 Tech Stack
 Excel (Pivot Tables, XLOOKUP, Dashboards)
