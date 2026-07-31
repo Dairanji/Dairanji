@@ -13,9 +13,9 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 - <a href="https://github.com/Dairanji/Dairanji/blob/main/Shayantan_Mitra_CV_DataAnalyst.pdf">Curriculum Vitae</a>
 
 ## Table of Contents
-- [Excel] (#excel)
-- [Power BI] (#powerbi)
-- [Sql] (#sql]
+- [Excel](#excel)
+- [Power BI](#powerbi)
+- [SQL](#sql]
 
 ## Excel
 | Project Link | Completion Date | Functions & Features | Project Description |
