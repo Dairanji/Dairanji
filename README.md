@@ -10,7 +10,7 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 - Interested in Business Intelligence, Financial Analytics, and Data-Driven Decision Making
 
 ## Download CV
-- <a href="https://github.com/Dairanji/Dairanji/blob/main/Shayantan_Mitra_CV_DataAnalyst.pdf">Dataset</a>
+- <a href="https://github.com/Dairanji/Dairanji/blob/main/Shayantan_Mitra_CV_DataAnalyst.pdf">Curriculum Vitae</a>
 
 Tech Stack
 Excel (Pivot Tables, XLOOKUP, Dashboards)
