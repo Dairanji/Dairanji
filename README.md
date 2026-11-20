@@ -18,6 +18,7 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 - [Data Analysis](#-data-analysis)
 - [Excel](#-excel)
 - [Power BI](#-power-bi)
+- [SQL](#-sql)
 
 ## 📊 Data Analysis
 | Project Link | Completion Date | Tools | Project Description |
@@ -36,6 +37,12 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 |---|---|---|---|
 | [E-Commerce-Order-Power-BI-Dashboard](https://github.com/Dairanji/E-Commerce-Order-Power-BI-Dashboard) | October 2026 | Built a 5-page Power BI dashboard on 2,500 orders across 14 countries to track sales targets and customer behaviour. Used DAX measures, slicers and a map-to-matrix drill-through; found sales at 95.8% of target (55 of 92 POCs below) and 42% of customers who never ordered. | [Download](https://github.com/Dairanji/E-Commerce-Order-Power-BI-Dashboard/raw/main/E_Commerce_Order_Project.pbix) |
 | [Weather-Report-India-Power-BI-Dashboard](https://github.com/Dairanji/Weather-Report-India-Power-BI-Dashboard) | September 2026 | Built a Power BI dashboard for 28 Indian cities from the WeatherAPI JSON feed, showing current conditions, a 7-day forecast, chance of rain and PM10-based air quality. Used Power Query to combine 28 API queries and DAX for unit formatting and pollutant colour rules. | [Download](https://github.com/Dairanji/Weather-Report-India-Power-BI-Dashboard/raw/main/weather_report_india_portfolio_project.pbix) |
+
+
+## 💾 SQL
+| Project Link | Completion Date | Functions & Features | Project Description |
+|---|---|---|---|
+| [Retail-Sales-Analysis-SQL](https://github.com/Dairanji/Retail-Sales-Analysis-SQL) | November 2026 | JOIN, GROUP BY / HAVING, CTEs, window functions (LAG), views, CASE, date functions, UPDATE with JOIN | A SQL case study on 5,000 retail transactions. Duplicates, 20 wrong prices and missing locations are fixed in a separate layer of tables and views, leaving the raw tables untouched, before analysing product, category and customer performance. Home & Kitchen brings in 31% of sales, and only 7 of 989 buying customers purchase more than 30 units. |
 
 
 ## 🤝 Connect With Me
