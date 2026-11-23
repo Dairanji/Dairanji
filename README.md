@@ -12,7 +12,7 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 "Turning data into insights and insights into decisions."
 
 ## 📄 Download CV
-- <a href="https://github.com/Dairanji/Dairanji/blob/main/Shayantan_Mitra_CV_DataAnalyst.pdf">Curriculum Vitae</a>
+- <a href="https://github.com/Dairanji/Dairanji/blob/main/Shayantan_Mitra_CV.pdf">Curriculum Vitae</a>
 
 ## 📚 Table of Contents
 - [Data Analysis](#-data-analysis)
