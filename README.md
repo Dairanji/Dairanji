@@ -23,7 +23,7 @@ Aspiring Data Analyst with a B.Sc. in Computer Science and 2.5+ years of experie
 ## 📊 Data Analysis
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
-| [JobMarket-Insights](https://github.com/Dairanji/Job-Market-Analysis) | July 2026 | Python, SerpAPI, MySQL, SQL (aggregation, GROUP BY), Power BI | Built an end-to-end pipeline scraping 11,000+ IT job postings across 42 Indian cities via SerpAPI, cleaning and loading the data into MySQL, then querying it in SQL to surface skill demand, top hiring companies, and employment trends, visualized in a Power BI dashboard. |
+| [JobMarket-Insights](https://github.com/Dairanji/Job-Market-Analysis) | July 2026 | SerpAPI, MySQL, SQL, Power BI, DAX | Built a pipeline that collects IT job listings across 42 Indian cities, cleans and de-duplicates them into a 222-record MySQL dataset, and uses SQL and Power BI to show hiring volume by city, top hiring companies and employment type. |
 
 ## 📗 Excel
 | Project Link | Completion Date | Functions & Features | Project Description |
